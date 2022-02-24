@@ -1,0 +1,141 @@
+body{
+    width: 1000px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.wrapper{
+    width: 1000px;
+    margin: auto;
+}
+.logo{
+    height: 100px;
+    background: white;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.menu{
+    height: 35px;
+    background: black;
+}
+.banner{
+    height: 250px;
+}
+.content{
+    height: 985px;
+    background: white;
+}
+footer{
+    height: 50px;
+    background: black;
+    text-align: center;
+    line-height: 49px;
+    font-size: 14px;
+    color: white;
+}
+.menu ul li{
+    list-style: none;
+    float: left;
+    line-height: 30px;
+    padding-left: 30px;
+    
+}
+.menu ul li a{
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+}
+.menu ul li a:hover{
+    text-decoration: underline;
+}
+.text{
+    width: 200px;
+    height: 20px;
+    border: none;
+    background: #ffff;
+    padding-left: 5px;
+    margin-top: 6px;
+}
+.timkiem{
+    width: 90px;
+    height: 20px;
+    background: #ffff;
+    border: 0.5 solid #ffff;
+}
+form{
+    text-align: right;
+    margin-right: 34px;
+}
+.banner img{
+    width: 1000px;
+    height: 140%;
+}
+.td{
+    width: 980px;
+    height: 65px;
+    line-height: 65px;
+}
+.td p{
+    color: #272f54;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+.sp1{
+    width: 315px;
+    height: 415px;
+    border: 0.5px solid #cccccc;
+    text-align: center;
+    float: left;
+    margin-right: 15px;
+}
+.tendt{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.tendt a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.giagoc{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: line-through;
+    margin-top: 20px;
+}
+.giamoi{
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 15px;
+    
+}
+.sp2{
+    width: 315px;
+    height: 415px;
+    border: 0.5px solid #cccccc;
+    text-align: center;
+    float: left;
+    
+}
+.box{
+    width: 980px;
+    height: 415px;
+
+}
+.td1{
+    width: 980px;
+    height: 65px;
+    line-height: 65px;
+}
+.td1 p{
+    color: #272f54;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 1px;
+}

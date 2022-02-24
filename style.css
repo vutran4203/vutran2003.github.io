@@ -1,0 +1,135 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    width: 1000px;
+    margin:0px auto;
+    background: url(/img/backback.jpg);
+}
+
+#menu_top{
+    margin-top: -15px;
+    background-color: black;
+    height: 40px;
+}
+#menu_top .dkdn a{
+    margin: right 50px;
+}
+
+
+#banner{
+    height: auto;
+    width: 1000px;
+}
+#main #left {
+    width: 700px;
+    background: white;
+    float: left;
+}
+#main #right {
+    width: 300px;
+    background: white;
+    float: left;
+    min-height: 400px;
+}
+#footer{
+    background: #000;
+    width: 1000px;
+    text-align: center;
+    height: 60px;
+    color: #FFF;
+    clear: left;
+    line-height: 60px;
+}
+#meu_top ul{
+    margin: 0px;
+    padding: 0px;
+}
+#menu_top ul li {
+    list-style: none;
+    float: left;
+}
+#menu_top ul li a {
+    text-decoration: none;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color: #FFF;
+    padding: 0px 20px 0px 20px;
+    
+}
+
+#menu_top li:hover{
+    text-decoration: underline;
+    background-color: red;
+}
+#menu_top li:hover{
+    color: red;
+    
+}
+
+#menu_top ul li a.lh{
+    border-right:1px solid white ;
+}
+
+#banner img{
+    width: 1000px;
+}
+#main #left ul {
+margin: 0px;
+padding: 0px;
+}
+#left ul li {
+    list-style: none;
+    clear: left;
+    float: left;
+}
+#main #left ul li img {
+    float: left;
+    margin-right: 10px;
+
+}
+#main #left ul li {
+    font-size: 14px;
+}
+#main #left ul li h3 {
+    font-size: 16px;
+    margin-top: 0px;
+}
+#main {
+margin-top: 10px;
+}
+
+#main #right .menu_right ul {
+    margin: -15px 0px 0px 0px;
+    padding:0px;
+}
+#main #right .menu_right ul li{
+    list-style: none;
+}
+#main #right .menu_right ul li a {
+    display: block;
+    text-decoration: none;
+    line-height: 35px;
+    border-bottom: 1px solid black;
+    background: url(../img/icons8-check-all-30.png) no-repeat 2px;
+    text-indent: 35px;
+}
+#main #right .menu_right ul li a:hover {
+color: red;
+}
+#main #right .menu_right h2 {
+    background: black url(../img/icons8-menu-30.png) no-repeat 3px;
+    height: 40px;
+    margin-top: 0px;
+    text-indent: 30px;
+    font-size: 14px;
+    line-height: 40px;
+    color: #FFF;
+    text-indent: 35px;
+}
+#main #right .menu_botom img {
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 299px;
+    height: 946px;
+}
